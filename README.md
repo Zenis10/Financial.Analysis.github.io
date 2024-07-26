@@ -1,0 +1,1 @@
+This project presents a comprehensive financial analysis dashboard designed to visualize key performance indicators (KPIs) for a business. The dashboard integrates various metrics to provide an in-depth understanding of revenue performance across dimensions.
